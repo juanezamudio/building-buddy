@@ -1,4 +1,4 @@
-# 🏢 BuildingBuddy MVP
+# 🏢 BuildingBuddy
 
 Welcome to **BuildingBuddy** – the playful, modern web app for sharing, borrowing, and connecting with your neighbors! 🛠️🤝
 
